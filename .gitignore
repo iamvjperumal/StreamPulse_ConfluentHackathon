@@ -38,9 +38,6 @@ temp/
 *.tsbuildinfo
 
 # TypeScript compiled JavaScript
-*.js
-*.js.map
-*.d.ts
 
 # Optional npm cache directory
 .npm/
