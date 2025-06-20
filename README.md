@@ -1,1 +1,8 @@
 # StreamPulse_ConfluentHackathon
+
+Key
+33Y6HZ2UOWJCNHTK
+
+Secret
+jO6wrb1NIQulIvGJEmev2wSJO4U0TkRPhB3hsCRkMXsUxXc4hjhDGRatiQ0NjICb
+
